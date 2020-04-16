@@ -91,38 +91,27 @@ img{
 .second {
 
 	display: flex;
-	justify-content: center;
-	justify-content: space-evenly;
-	margin: 3%;
 	flex-wrap: wrap;
+	justify-content: space-evenly;
+
 
 }
 
 .projectone, .projecttwo, .projectthree {
 	background-color:#A9A9A9;
-	width: 20%;
-	height: auto;
+	width: 400px;
 	border-radius: 5%;
-
-}
-
-/* third section */
-
-.third {
-
-	display: flex;
-	justify-content: center;
-	justify-content: space-evenly;
 	margin: 3%;
-	flex-wrap: wrap;
+
+
 
 }
 
 .projectfour, .projectfive, .projectsix {
 	background-color: #A9A9A9;
-	width: 20%;
-	height: auto;
+	width: 400px;
 	border-radius: 5%;
+	margin: 3%;
 
 }
 
