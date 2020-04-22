@@ -1,0 +1,21 @@
+@media only screen and (max-width: 500px) {
+  
+    .projectone, .projecttwo, .projectthree {
+        background-color:#A9A9A9;
+        width: 150px;
+        border-radius: 3%;
+        margin: 2%;
+    
+    
+    
+    }
+    
+    .projectfour, .projectfive, .projectsix {
+        background-color: #A9A9A9;
+        width: 150px;
+        border-radius: 3%;
+        margin: 2%;
+
+    }
+    
+  }
